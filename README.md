@@ -2,6 +2,8 @@
 
 <!-- [![sundaram-rai.com](https://img.shields.io/badge/-SUNDARAM--RAI.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/sundaram-rai) -->
 
+<h1> Hi 👋, I'm Sundaram Rai </h1>
+
 ### 👨‍💻 **About Me**
 I'm a passionate **Software Developer** with experience in full-stack development and a keen interest in exploring new technologies. I enjoy problem-solving and creating innovative solutions that enhance user experience.
 
@@ -68,11 +70,9 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
 
 ### **Fun Facts** 🎉
 
-- 🌍 **Location**: I'm from **Mumbai, India**. 
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Flag of India" width="20" height="15" style="vertical-align:middle;"/>
+- 🌍 **Location**: I'm from **India**.
   
-- 🎮 **Hobbies**: I love **gaming** and actively participate in **coding competitions**. 
-  <img src="https://cdn-icons-png.flaticon.com/512/2234/2234096.png" alt="Gaming Icon" width="20" height="15" style="vertical-align:middle;"/>
+- 🎮 **Hobbies**: I love **gaming** and actively participate in **coding competitions**.
   
 - 📚 **Learning**: Always exploring **new technologies** and striving to improve my skills! 
   <img src="https://cdn-icons-png.flaticon.com/512/6877/6877118.png" alt="Learning Icon" width="20" height="15" style="vertical-align:middle;"/>
