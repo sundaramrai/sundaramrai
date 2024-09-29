@@ -66,7 +66,10 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
   <a href="https://github.com/sundaram-rai" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=GitHub&logoColor=000000" alt="GitHub" />
   </a>
+  <span align="left"> <img src="https://komarev.com/ghpvc/?username=sundaram-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sundaram-rai" /> </span>
 </p>
+
+<img align="right" alt="Code Animation" width="200" src="https://octodex.github.com/images/stormtroopocat.png" style="border-radius: 50%;"/>
 
 ### **Fun Facts** 🎉
 
