@@ -61,44 +61,6 @@ I’m a passionate **Software Developer** with a keen interest in **full-stack d
 
 ---
 
-### 📚 **Education**
-
-- **Bachelor of Engineering in Computer Science**  
-  Thakur College of Engineering and Technology (TCET)  
-  CGPA: 9.12/10 | 2021 - Present
-
----
-
-### 💼 **Experience**
-
-**Software Developer | Tata Steel Limited**  
-_Aug 2023 - Jan 2024_  
-- Developed a full-stack web app using **React.js** and **Node.js** to improve machine utilization and provide real-time insights.
-
-**Web Developer | Zidio Development**  
-_Jun 2024 - Present_  
-- Built a Resume Builder application using **React.js**, **Node.js**, and **Firebase**, enhancing user experience and data management.
-
----
-
-### 🌟 **Projects**
-
-- **[LingoLeap](https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap)**:  
-  A web app designed to help children improve Hindi-speaking skills through structured lessons.
-
-- **[ClassTrack](https://github.com/sundaram-rai/django-erp-attendance)**:  
-  A Python/Django-based attendance management system that automates attendance tracking and reporting.
-
----
-
-### 🏆 **Achievements & Certifications**
-
-- Finalist in **Smart India Hackathon 2023**
-- Finalist in **Devfolio Hackathon - Hack Hurricane 2024**
-- **Python 3.4.3 Training Certification** from IIT Bombay
-
----
-
 ### 📫 **Connect with Me**
 
 <p align="center">
