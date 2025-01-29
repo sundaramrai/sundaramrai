@@ -65,14 +65,6 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sundaram-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sundaram-rai" /> </span>
 </p>
 
-### **Fun Facts** 🎉
-
-- 🌍 **Location**: I'm from **India**.
-  
-- 🎮 **Hobbies**: I love **gaming** and actively participate in **coding competitions**.
-  
-- 📚 **Learning**: Always exploring **new technologies** and striving to improve my skills!
-
 Credits: [sundaramrai](https://github.com/sundaramrai)
 
 Last Edited on: 29-01-2024
