@@ -14,7 +14,7 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -75,4 +75,4 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
 
 Credits: [sundaramrai](https://github.com/sundaramrai)
 
-Last Edited on: 30-09-2024
+Last Edited on: 29-01-2024
