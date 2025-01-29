@@ -41,22 +41,8 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
 ### **Web/Full Stack projects**
 
 [![LingoLeap](https://img.shields.io/badge/-🧬&nbsp;&nbsp;LingoLeap-000000?style=flat)](https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap)
-[![ClassTrack](https://img.shields.io/badge/-🗺️&nbsp;ClassTrack-000000?style=flat)](https://github.com/sundaram-rai/django-erp-attendance)
+[![ClassTrack](https://img.shields.io/badge/-🗺️&nbsp;ClassTrack-000000?style=flat)](https://github.com/sundaramrai/django-erp-attendance)
 
-
-<details>
-  <summary><h3>📊 GitHub Stats 📊</h3></summary>
-  <p align="center">
-    <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=sundaram-rai&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-    <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaram-rai&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-  </p>
-</details>
-
-<!-- ### **Featured Blog Posts**
-
-- [How I Built LingoLeap](https://example.com/blog/lingoleap)
-- [Tips for Full-Stack Development](https://example.com/blog/fullstack-tips)
--->
 
 ### **Connect with Me**
 
@@ -70,7 +56,7 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
   <a href="https://leetcode.com/u/sundaramrai/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode&logoColor=FFFFFF" alt="LeetCode" />
   </a>
-  <a href="https://github.com/sundaram-rai" target="_blank">
+  <a href="https://github.com/sundaramrai" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=GitHub&logoColor=000000" alt="GitHub" />
   </a>
   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sundaram-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sundaram-rai" /> </span>
@@ -84,8 +70,6 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
   
 - 📚 **Learning**: Always exploring **new technologies** and striving to improve my skills!
 
--------
-<img src="https://cdn-icons-png.flaticon.com/512/6877/6877118.png" alt="Learning Icon" width="20" height="15" style="vertical-align:middle;"/>
-Credits: [sundaram-rai](https://github.com/sundaram-rai)
+Credits: [sundaramrai](https://github.com/sundaramrai)
 
 Last Edited on: 30-09-2024
