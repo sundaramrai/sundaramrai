@@ -85,6 +85,7 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
 - 📚 **Learning**: Always exploring **new technologies** and striving to improve my skills!
 
 -------
+<img src="https://cdn-icons-png.flaticon.com/512/6877/6877118.png" alt="Learning Icon" width="20" height="15" style="vertical-align:middle;"/>
 Credits: [sundaram-rai](https://github.com/sundaram-rai)
 
 Last Edited on: 30-09-2024
