@@ -76,8 +76,6 @@ I'm a passionate **Software Developer** with experience in full-stack developmen
   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sundaram-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sundaram-rai" /> </span>
 </p>
 
-<img align="right" alt="Code Animation" width="200" src="https://octodex.github.com/images/stormtroopocat.png"/>
-
 ### **Fun Facts** 🎉
 
 - 🌍 **Location**: I'm from **India**.
