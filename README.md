@@ -13,7 +13,7 @@
 ### **Connect with Me**
 
 <p align="left">
-  <a href="https://linkedin.com/in/sundaram-rai-a9b195222" target="_blank">
+  <a href="https://linkedin.com/in/sundaramrai" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn" />
   </a>
   <a href="mailto:sundaramrai02@gmail.com" target="_blank">
