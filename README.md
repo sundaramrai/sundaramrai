@@ -4,7 +4,7 @@
 
 <h1> Hi 👋, I'm Sundaram Rai </h1>
 
-### **Web/Full Stack projects**
+### **Full Stack Web Projects**
 
 [![LingoLeap](https://img.shields.io/badge/-🧬&nbsp;&nbsp;LingoLeap-000000?style=flat)](https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap)
 [![ClassTrack](https://img.shields.io/badge/-🗺️&nbsp;ClassTrack-000000?style=flat)](https://github.com/sundaramrai/django-erp-attendance)
@@ -25,7 +25,7 @@
   <a href="https://github.com/sundaramrai" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=GitHub&logoColor=000000" alt="GitHub" />
   </a>
-  <a href="https://sundaramrai.netlify.app/" target="_blank">
+  <a href="https://sundaramrai.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Website-online-brightgreen" alt="Portfolio" />
   </a>
   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sundaram-rai&label=Profile%20views&color=0e75b6&style=flat" alt="sundaram-rai" /> </span>
