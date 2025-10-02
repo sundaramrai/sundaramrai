@@ -1,167 +1,341 @@
-<div align="center">
-
-# 👋 Hi, I'm Sundaram Rai
-
-### Software Engineer | Full-Stack Developer | Problem Solver
-
-*Creating elegant solutions to complex problems*
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sundaramrai.vercel.app-00D9FF?style=for-the-badge)](https://sundaramrai.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://linkedin.com/in/sundaramrai)
-[![Gmail](https://img.shields.io/badge/-sundaramrai02@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:sundaramrai02@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=000000)](https://leetcode.com/u/sundaramrai/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/sundaramrai)
-
-</div>
-
----
-
-## 🚀 About Me
-
-```typescript
-const sundaram = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    currentFocus: "AI integration with web platforms",
-    interests: ["Web Development", "SaaS", "Open Source", "EdTech"],
-    philosophy: "Design × Logic × User Experience = Impact",
-    collaboration: "Always open to innovative projects!",
-    learning: "Never stops 📚"
-};
+```ascii
+███████╗██╗   ██╗███╗   ██╗██████╗  █████╗ ██████╗  █████╗ ███╗   ███╗    ██████╗  █████╗ ██╗
+██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗████╗ ████║    ██╔══██╗██╔══██╗██║
+███████╗██║   ██║██╔██╗ ██║██║  ██║███████║██████╔╝███████║██╔████╔██║    ██████╔╝███████║██║
+╚════██║██║   ██║██║╚██╗██║██║  ██║██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║    ██╔══██╗██╔══██║██║
+███████║╚██████╔╝██║ ╚████║██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║    ██║  ██║██║  ██║██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 ```
 
-- 💼 Currently working as **Developer Intern** at **Homeville Group** (Fintech)
-- 🎯 Passionate about building **scalable, intuitive, and impactful** applications
-- 🌱 Exploring **AI-powered solutions** and modern web technologies
-- 🤝 Open to collaborating on **Web Development, SaaS projects, and Open Source**
-- ⚡ Fun fact: I believe every line of code should tell a story
-
----
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
+```javascript
+console.log("Building the future, one commit at a time 🚀");
+```
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00D9FF?style=for-the-badge&labelColor=000000)](https://sundaramrai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF&labelColor=000000)](https://linkedin.com/in/sundaramrai)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=000000)](mailto:sundaramrai02@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=LeetCode&logoColor=000000&labelColor=FFFFFF)](https://leetcode.com/u/sundaramrai/)
 
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Building+Scalable+Solutions)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## `$ whoami`
 
-### ⚖️ [Juris](https://github.com/sundaramrai/juris) - Legal Document Management System
-> A comprehensive **legal document & case management platform** designed for law professionals to organize, track, and manage workflows efficiently.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Sundaram Rai"
+        self.role = "Full Stack Developer"
+        self.location = "India 🇮🇳"
+        self.company = "Homeville Group"
+        self.languages = ["JavaScript", "TypeScript", "Python", "PHP"]
+        self.current_focus = "AI integration with web platforms"
+        self.interests = ["Web Dev", "SaaS", "Open Source", "EdTech", "Fintech"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+    
+    def get_stack(self):
+        return {
+            "frontend": ["React", "Next.js", "Angular", "TypeScript"],
+            "backend": ["Node.js", "Express", "Django", "Python"],
+            "database": ["MongoDB", "MySQL", "Firebase"],
+            "tools": ["Git", "Docker", "VS Code", "Postman"]
+        }
 
-**Key Features:**
-- 📁 Document organization and version control
-- 📊 Case tracking and deadline management
-- 🔐 Secure authentication and role-based access
-- 📱 Responsive design for cross-device compatibility
+me = Developer()
+me.say_hi()
+```
 
-**Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
-
----
-
-### 🌿 [Greenory](https://github.com/sundaramrai/greenory) - Sustainability Platform
-> A **sustainability platform** promoting eco-friendly living through curated resources and community engagement.
-
-**Key Features:**
-- 🌍 Eco-friendly lifestyle resources and tips
-- 👥 Community-driven content and discussions
-- 📈 Personal sustainability tracking
-- 🎨 Modern, accessible UI/UX
-
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)
-
----
-
-### 🗣️ [LingoLeap](https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap) - Language Learning App
-> An **interactive learning application** helping children improve their Hindi-speaking skills through **gamified lessons & progress tracking**.
-
-**Key Features:**
-- 🎮 Gamified learning experience
-- 📊 Progress tracking and analytics
-- 🎯 Personalized learning paths
-- 🏆 Achievement system and rewards
-
-**Tech Stack:** ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
+```bash
+$ git clone https://github.com/future.git
+$ cd innovative-projects
+$ npm install collaboration
+$ npm run build-together
+```
 
 ---
 
-## 📊 GitHub Analytics
+## `$ cat experience.log`
+
+```diff
++ [2025-01-XX → Present] Developer Intern @ Homeville Group
+  ├─ Building fintech solutions with Angular & TypeScript
+  ├─ Optimizing performance and enhancing UX
+  └─ Cross-functional team collaboration
+
++ [2024-06-XX → 2024-09-XX] Web Developer Intern @ Zidio Development
+  ├─ Developed Resume Builder & Job Portal (MERN Stack)
+  ├─ Implemented real-time database integration
+  └─ Optimized data handling and search algorithms
+
++ [2023-08-XX → 2024-01-XX] Software Developer Intern @ Tata Steel Limited
+  ├─ Built production analytics app (React.js + Node.js)
+  ├─ Automated data collection and visualization
+  └─ Delivered real-time operational insights
+
+# Career Progression: Loading... ████████████░░░░ 85%
+```
+
+---
+
+## `$ ls -la skills/`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sundaramrai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramrai&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+
+```bash
+drwxr-xr-x  frontend/
+```
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+```bash
+drwxr-xr-x  backend/
+```
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+```bash
+drwxr-xr-x  database_and_tools/
+```
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat projects.json | jq`
+
+```json
+{
+  "featured_projects": [
+    {
+      "name": "Juris",
+      "type": "Legal Tech SaaS",
+      "description": "Comprehensive legal document & case management platform",
+      "stack": ["React", "Node.js", "Express", "MongoDB"],
+      "features": [
+        "Document organization & version control",
+        "Case tracking & deadline management",
+        "Secure authentication & RBAC",
+        "Responsive cross-device design"
+      ],
+      "live_demo": "https://juris-legal.vercel.app",
+      "repo": "https://github.com/sundaramrai/juris"
+    },
+    {
+      "name": "Greenory",
+      "type": "Sustainability Platform",
+      "description": "Eco-friendly living platform with community engagement",
+      "stack": ["Next.js", "TailwindCSS", "Firebase"],
+      "features": [
+        "Curated eco-friendly resources",
+        "Community-driven discussions",
+        "Personal sustainability tracking",
+        "Modern accessible UI/UX"
+      ],
+      "live_demo": "https://greenory.vercel.app",
+      "repo": "https://github.com/sundaramrai/greenory"
+    },
+    {
+      "name": "LingoLeap",
+      "type": "EdTech Platform",
+      "description": "Gamified Hindi language learning for children",
+      "stack": ["Next.js", "Node.js", "TailwindCSS", "MongoDB"],
+      "features": [
+        "Gamified learning modules",
+        "Progress tracking & analytics",
+        "Personalized learning paths",
+        "Achievement & reward system"
+      ],
+      "live_demo": "https://lingoleap.vercel.app",
+      "repo": "https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap"
+    }
+  ],
+  "total_commits": "Loading...",
+  "coffee_consumed": "∞",
+  "bugs_fixed": "Too many to count 🐛"
+}
+```
+
+<div align="center">
+
+### `> view_projects.sh`
+
+[![Juris](https://img.shields.io/badge/⚖️_Juris-Legal_Tech-FF6B6B?style=for-the-badge)](https://juris-legal.vercel.app)
+[![Greenory](https://img.shields.io/badge/🌿_Greenory-Sustainability-4ECDC4?style=for-the-badge)](https://greenory.vercel.app)
+[![LingoLeap](https://img.shields.io/badge/🗣️_LingoLeap-EdTech-FFE66D?style=for-the-badge)](https://lingoleap.vercel.app)
+
+**[View Source Code](https://github.com/sundaramrai?tab=repositories)**
+
+</div>
+
+---
+
+## `$ git log --graph --oneline --all`
+
+<div align="center">
+
+```mermaid
+gitGraph
+    commit id: "🎓 Started Coding Journey"
+    commit id: "💼 Joined Tata Steel"
+    branch learning
+    checkout learning
+    commit id: "📚 Mastered MERN Stack"
+    checkout main
+    merge learning
+    commit id: "🚀 Built Juris & Greenory"
+    commit id: "💡 Joined Zidio Development"
+    branch innovation
+    checkout innovation
+    commit id: "🔧 Created Resume Builder"
+    checkout main
+    merge innovation
+    commit id: "🏢 Joined Homeville Group"
+    commit id: "🌟 Building Fintech Solutions"
+    commit id: "🎯 Current: AI Integration"
+```
+
+</div>
+
+---
+
+## `$ ./github-stats.sh --detailed`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sundaramrai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramrai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sundaramrai&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sundaramrai&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="48%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundaramrai&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sundaramrai&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
+### `$ trophy-case --display`
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sundaramrai&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on innovative projects or discuss new ideas!
-
-**Feel free to reach out:**
-
-📧 **Email:** [sundaramrai02@gmail.com](mailto:sundaramrai02@gmail.com)  
-🌐 **Portfolio:** [sundaramrai.vercel.app](https://sundaramrai.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/sundaramrai](https://linkedin.com/in/sundaramrai)  
-🐙 **GitHub:** [github.com/sundaramrai](https://github.com/sundaramrai)  
-💻 **LeetCode:** [leetcode.com/u/sundaramrai](https://leetcode.com/u/sundaramrai/)
+<img src="https://github-profile-trophy.vercel.app/?username=sundaramrai&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
+## `$ ./contribution-graph.py --year 2025`
+
 <div align="center">
 
-### 💭 *"Code is poetry written in logic"*
+<img src="https://ghchart.rshah.org/00D9FF/sundaramrai" alt="Contribution Graph" width="90%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sundaramrai&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/sundaramrai?label=Follow&style=social)](https://github.com/sundaramrai)
+</div>
 
-**⭐ Star my repositories if you find them interesting!**
+---
+
+## `$ cat code_philosophy.txt`
+
+```javascript
+const codePhilosophy = {
+  principles: [
+    "Clean code is better than clever code",
+    "Make it work, make it right, make it fast",
+    "Code is read more often than it's written",
+    "Always leave the codebase better than you found it"
+  ],
+  approach: {
+    problem_solving: "Break it down, build it up",
+    collaboration: "Communication > Code",
+    learning: "Never stop exploring"
+  },
+  quote: "Code is poetry written in logic 💭"
+};
+
+// Current Mission: Design × Logic × UX = Impact ⚡
+```
+
+---
+
+## `$ ping -c 5 sundaram.dev`
+
+<div align="center">
+
+```bash
+PING sundaram.dev (127.0.0.1): 56 data bytes
+64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.042 ms
+--- Available on multiple channels ---
+```
+
+### **Connect** `&&` **Collaborate**
+
+```javascript
+const contact = {
+  email: "sundaramrai02@gmail.com",
+  portfolio: "https://sundaramrai.vercel.app/",
+  linkedin: "linkedin.com/in/sundaramrai",
+  github: "github.com/sundaramrai",
+  leetcode: "leetcode.com/u/sundaramrai"
+};
+
+// Always open to innovative projects and collaborations 🤝
+// Let's build something extraordinary together! 🚀
+```
+
+[![Email](https://img.shields.io/badge/📧_Email-sundaramrai02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sundaramrai02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sundaramrai.vercel.app-00D9FF?style=for-the-badge&labelColor=000000)](https://sundaramrai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/sundaramrai)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ fortune | cowsay
+ _________________________________
+< Thanks for visiting my profile! >
+ ---------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=sundaramrai&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/sundaramrai?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000)](https://github.com/sundaramrai?tab=followers)
+[![Stars](https://img.shields.io/github/stars/sundaramrai?label=Stars&style=for-the-badge&color=FFE66D&labelColor=000000)](https://github.com/sundaramrai?tab=repositories)
+
+```diff
++ Star ⭐ my repositories if you find them interesting!
++ Fork 🍴 them to contribute
++ Follow 👥 for more amazing projects
+```
+
+### `while(alive) { eat(); sleep(); code(); repeat(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
