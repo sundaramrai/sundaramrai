@@ -40,24 +40,35 @@
 
 ## 💼 Selected Projects  
 
-### <img src="https://raw.githubusercontent.com/sundaramrai/assets/main/icons/juris.png" alt="Juris Logo" width="30"/> **Juris**  
-A legal document and case management system for law professionals to organize, track, and manage workflows seamlessly.  
-**Stack:** React.js, Node.js, Express, MongoDB  
-🔗 [View Project](https://github.com/sundaramrai/juris)  
+### 🚀 [Juris](https://github.com/sundaramrai/juris)  
+A **legal document & case management system** designed for law professionals to organize, track, and manage workflows efficiently.  
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sundaramrai/assets/main/icons/greenory.png" alt="Greenory Logo" width="30"/> **Greenory**  
-A sustainability-driven platform promoting eco-friendly living through resources and community engagement.  
-**Stack:** Next.js, Tailwind CSS, Firebase  
-🔗 [View Project](https://github.com/sundaramrai/greenory)  
+### 🌱 [Greenory](https://github.com/sundaramrai/greenory)  
+A **sustainability platform** promoting eco-friendly living through curated resources and community engagement.  
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/sundaramrai/assets/main/icons/lingoleap.png" alt="LingoLeap Logo" width="30"/> **LingoLeap**  
-An interactive web app that helps children enhance their Hindi-speaking skills through gamified lessons.  
-**Stack:** Next.js, Node.js, Tailwind CSS, MongoDB  
-🔗 [View Project](https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap)  
+### 🧬 [LingoLeap](https://github.com/RayaanQ/Misarticulation-Project/tree/LingoLeap)  
+An **interactive learning app** helping children improve their Hindi-speaking skills through **gamified lessons & progress tracking**.  
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
 
 ---
 
