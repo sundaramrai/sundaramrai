@@ -106,8 +106,8 @@ drwxr-xr-x  database_and_tools/
 ### `> view_projects.sh`
 
 [![Juris](https://img.shields.io/badge/⚖️_Juris-Legal_Tech-FF6B6B?style=for-the-badge)](https://juris-legal.vercel.app)
-[![Greenory](https://img.shields.io/badge/🌿_Greenory-Sustainability-4ECDC4?style=for-the-badge)](https://greenory.vercel.app)
-[![LingoLeap](https://img.shields.io/badge/🗣️_LingoLeap-EdTech-FFE66D?style=for-the-badge)](https://lingoleap.vercel.app)
+[![Greenory](https://img.shields.io/badge/🌿_Greenory-Sustainability-4ECDC4?style=for-the-badge)](https://greenory.onrender.com/)
+[![LingoLeap](https://img.shields.io/badge/🗣️_LingoLeap-EdTech-FFE66D?style=for-the-badge)](https://lingoleap-ui.vercel.app/)
 
 **[View Source Code](https://github.com/sundaramrai?tab=repositories)**
 
@@ -119,9 +119,7 @@ drwxr-xr-x  database_and_tools/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sundaramrai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramrai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" height="180"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sundaramrai&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
 
 </div>
