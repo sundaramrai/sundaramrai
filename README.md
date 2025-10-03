@@ -93,41 +93,6 @@ drwxr-xr-x  database_and_tools/
 
 ---
 
-## `$ ./github-stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramrai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sundaramrai&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
-
-</div>
-
----
-
-## `$ ping -c 5 sundaram.dev`
-
-<div align="center">
-
-```javascript
-const contact = {
-  email: "sundaramrai02@gmail.com",
-  portfolio: "https://sundaramrai.vercel.app/",
-  linkedin: "linkedin.com/in/sundaramrai",
-  github: "github.com/sundaramrai",
-  leetcode: "leetcode.com/u/sundaramrai"
-};
-
-// Always open to innovative projects and collaborations 🤝
-```
-
-[![Email](https://img.shields.io/badge/📧_Email-sundaramrai02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:sundaramrai02@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sundaramrai.vercel.app-00D9FF?style=for-the-badge&labelColor=000000)](https://sundaramrai.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/sundaramrai)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sundaramrai&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
