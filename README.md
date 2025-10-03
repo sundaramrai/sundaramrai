@@ -32,7 +32,6 @@ class Developer:
         self.name = "Sundaram Rai"
         self.role = "Full Stack Developer"
         self.location = "India 🇮🇳"
-        self.company = "Homeville Group"
         self.languages = ["JavaScript", "TypeScript", "Python", "PHP"]
         self.current_focus = "AI integration with web platforms"
         self.interests = ["Web Dev", "SaaS", "Open Source", "EdTech", "Fintech"]
@@ -42,27 +41,6 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
-
----
-
-## `$ cat experience.log`
-
-```diff
-+ [2025-01 → Present] Developer Intern @ Homeville Group
-  ├─ Building fintech solutions with Angular & TypeScript
-  ├─ Optimizing performance and enhancing UX
-  └─ Cross-functional team collaboration
-
-+ [2024-06 → 2024-09] Web Developer Intern @ Zidio Development
-  ├─ Developed Resume Builder & Job Portal (MERN Stack)
-  ├─ Implemented real-time database integration
-  └─ Optimized data handling and search algorithms
-
-+ [2023-08 → 2024-01] Software Developer Intern @ Tata Steel Limited
-  ├─ Built production analytics app (React.js + Node.js)
-  ├─ Automated data collection and visualization
-  └─ Delivered real-time operational insights
 ```
 
 ---
