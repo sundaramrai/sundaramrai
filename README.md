@@ -26,27 +26,13 @@ I'm a full-stack developer who enjoys working across the entire product stack �
 
 ---
 
-### Stack
-
-```
-Frontend    →   React · Next.js · Angular · TypeScript · Tailwind CSS
-Backend     →   Node.js · Express · Django · Python · PHP
-Database    →   MongoDB · MySQL · Firebase
-Tools       →   Git · Vercel · Render
-```
-
----
-
 ### Projects
 
 **[⚖️ Juris](https://juris-legal.vercel.app)** — Legal tech platform simplifying access to legal resources
-`React` `Node.js` `MongoDB`
 
 **[🌿 Greenory](https://greenory.onrender.com/)** — Sustainability app encouraging eco-conscious habits
-`Next.js` `TypeScript` `Firebase`
 
 **[🗣️ LingoLeap](https://lingoleap-ui.vercel.app/)** — Interactive language learning platform
-`Angular` `Django` `MySQL`
 
 → [See all repositories](https://github.com/sundaramrai?tab=repositories)
 
