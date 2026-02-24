@@ -56,9 +56,9 @@ Tools       →   Git · Vercel · Render
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sundaramrai&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="160"/>
+<img src="https://streak-stats.demolab.com?user=sundaramrai&theme=dark&hide_border=true&background=0d1117&stroke=444444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=666666" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramrai&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sundaramrai&theme=github_dark" height="160"/>
 
 </div>
 
